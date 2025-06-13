@@ -1,6 +1,6 @@
 # 💼 HR Analytics Dashboard - Power BI Project
 
-🔗 **Live Dashboard**: [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMWRjZTc1OWUtZGJlMS00ZDBiLTk0NGYtNTFiYjI2Yzk4ZGQ0IiwidCI6ImM2NDk4YWJmLWUyOTYtNDkzNy04YzJhLTJmYTlhZDM3YzFjYSJ9)
+🔗 **Live Dashboard**: [View Power BI Report]([https://app.powerbi.com/view?r=eyJrIjoiMWRjZTc1OWUtZGJlMS00ZDBiLTk0NGYtNTFiYjI2Yzk4ZGQ0IiwidCI6ImM2NDk4YWJmLWUyOTYtNDkzNy04YzJhLTJmYTlhZDM3YzFjYSJ9](https://app.powerbi.com/view?r=eyJrIjoiMmEwZTNiN2ItNTA4YS00ODc3LThhM2ItOTlmYmI5ZGVmZWRhIiwidCI6ImM2NDk4YWJmLWUyOTYtNDkzNy04YzJhLTJmYTlhZDM3YzFjYSJ9))
 
 ---
 
